@@ -1,0 +1,5 @@
+apple 
+cookie 
+icecream
+bread 
+milk
